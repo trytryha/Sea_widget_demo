@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/SimpleWater.frag</file>
+        <file>shaders/SimpleWater.vert</file>
+    </qresource>
+</RCC>

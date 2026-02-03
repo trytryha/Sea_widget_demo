@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/toyplane.obj</file>
+        <file>models/waterPlane.obj</file>
+    </qresource>
+</RCC>
